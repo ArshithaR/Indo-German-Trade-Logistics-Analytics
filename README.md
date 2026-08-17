@@ -13,5 +13,5 @@ An end-to-end Power BI business intelligence dashboard designed to monitor and a
 * **Data Modeling:** Star Schema, Relationships, Calculated Columns
 * **Data Analysis Expressions (DAX):** Measures for dynamic KPIs, aggregations, and filtering.
 
-## Dashboard Preview
-*(Add a screenshot of your dashboard here by simply dragging and dropping your image file into the GitHub editor)*
+
+
